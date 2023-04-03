@@ -1,0 +1,3 @@
+C:/Users/guill/Desktop/school/remises/session 3/tp2/cmake-build-debug/CMakeFiles/tp2.dir
+C:/Users/guill/Desktop/school/remises/session 3/tp2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/guill/Desktop/school/remises/session 3/tp2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
